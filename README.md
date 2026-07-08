@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Dayana!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center"> Dayana Obando · Estudiante en constante aprendizaje</h3>
+<h3 align="center">💜 Dayana Obando · Estudiante en constante aprendizaje 💜</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B983FF&center=true&vCenter=true&width=500&lines=Aprendiendo+HTML%2C+CSS+y+JavaScript;Explorando+Python+poco+a+poco;Este+repo+guarda+mis+tareas+de+la+U;Tu+potencial+es+infinito+%E2%9C%A8" alt="Typing SVG" />
@@ -46,32 +46,24 @@
 
 ---
 
-### 📊 Mis estadísticas
+### 🗺️ Mi camino de aprendizaje
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RominaOban&show_icons=true&theme=radical&hide_border=true">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=RominaOban&show_icons=true&theme=default&hide_border=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RominaOban&layout=compact&theme=radical&hide_border=true">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RominaOban&layout=compact&theme=default&hide_border=true" />
-  </picture>
-</p>
+- [x] Fundamentos de HTML
+- [x] Fundamentos de CSS
+- [ ] JavaScript (en progreso 🌱)
+- [ ] Python (en progreso 🌱)
+- [ ] Java (próximo objetivo 🎯)
+- [ ] Mi primer proyecto completo
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=RominaOban&theme=radical&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=RominaOban&theme=default&hide_border=true" />
-  </picture>
-</p>
+---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RominaOban&theme=radical&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RominaOban&theme=minimal&hide_border=true" />
-  </picture>
-</p>
+### 🎀 Datos random sobre mí
+
+- 📚 Estudiante, usando este perfil como bitácora de tareas
+- 🐰 Detrás de este perfil está *Meg Studio*, mi pequeño proyecto personal
+- 🌷 Colores favoritos: rosa y violeta (se nota, ¿no? 💜)
+- ✨ Creo firmemente en que *"tu potencial es infinito"*
+- ☕ Aprendiendo un poco cada día, sin prisa
 
 ---
 
