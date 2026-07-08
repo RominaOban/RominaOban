@@ -39,7 +39,7 @@
 
 ---
 
-### 🗺️ Mi camino de aprendizaje
+### 🗺️ Camino de aprendizaje
 
 - [x] Fundamentos de HTML
 - [x] Fundamentos de CSS
