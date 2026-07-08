@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Dayana!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Dayana!%20&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">💜 Dayana Obando · Estudiante en constante aprendizaje 💜</h3>
@@ -37,33 +37,25 @@
   </picture>
 </p>
 
-| Tecnología | Nivel |
-|---|---|
-| 🟧 HTML | 🟣🟣🟣⚪⚪ Medio-bajo |
-| 🟨 JavaScript | 🟣🟣⚪⚪⚪ Bajo-medio |
-| 🐍 Python | 🟣⚪⚪⚪⚪ Bajo (empezando) |
-| ☕ Java | 🎯 Próximamente |
-
 ---
 
 ### 🗺️ Mi camino de aprendizaje
 
 - [x] Fundamentos de HTML
 - [x] Fundamentos de CSS
-- [ ] JavaScript (en progreso 🌱)
-- [ ] Python (en progreso 🌱)
-- [ ] Java (próximo objetivo 🎯)
+- [ ] JavaScript
+- [ ] Python
+- [ ] Java
 - [ ] Mi primer proyecto completo
 
 ---
 
-### 🎀 Datos random sobre mí
+### Datos sobre mí
 
 - 📚 Estudiante, usando este perfil como bitácora de tareas
 - 🐰 Detrás de este perfil está *Meg Studio*, mi pequeño proyecto personal
-- 🌷 Colores favoritos: rosa y violeta (se nota, ¿no? 💜)
-- ✨ Creo firmemente en que *"tu potencial es infinito"*
-- ☕ Aprendiendo un poco cada día, sin prisa
+- 🌷 Colores favoritos: rosa y violeta
+- ☕ Aprendiendo un poco cada día
 
 ---
 
