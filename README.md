@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Dayana!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Dayana!%20&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">💜 Dayana Obando · Estudiante en constante aprendizaje 💜</h3>
+<h3 align="center">🩷 Dayana Obando · Estudiante en constante aprendizaje 💜</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B983FF&center=true&vCenter=true&width=500&lines=Aprendiendo+HTML%2C+CSS+y+JavaScript;Explorando+Python+poco+a+poco;Este+repo+guarda+mis+tareas+de+la+U;Tu+potencial+es+infinito+%E2%9C%A8" alt="Typing SVG" />
@@ -19,9 +19,9 @@
 ### 🌸 Sobre mí
 
 - 🎓 Estudiante universitaria, aprendiendo a programar desde cero
-- 💻 Este perfil también funciona como repositorio de mis **tareas y prácticas**
+- 💻 Este perfil funciona como repositorio de mis **tareas y prácticas**
 - 🌱 Actualmente reforzando **HTML**, **JavaScript** y dando mis primeros pasos en **Python**
-- 🎯 Próxima meta: aprender **Java**
+- 🎯 Metas: aprender mejor **Java**
 - 💌 Contacto: `drobando4@utpl.edu.ec`
 
 > *"Tu potencial es infinito, solo limitado por tus pensamientos"* 🦋
@@ -32,8 +32,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,python&theme=dark">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,python,java,mysql&theme=dark">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql&theme=light" />
   </picture>
 </p>
 
@@ -50,12 +50,11 @@
 
 ---
 
-### 🎀 Datos random sobre mí
+### 🎀 Datos sobre mí
 
 - 📚 Estudiante, usando este perfil como bitácora de tareas
-- 🐰 Detrás de este perfil está *Meg Studio*, mi pequeño proyecto personal
-- 🌷 Colores favoritos: rosa y violeta (se nota, ¿no? 💜)
-- ✨ Creo firmemente en que *"tu potencial es infinito"*
+- 🐰 Detrás de este perfil está *Meg Studio*, mi proyecto personal
+- 🌷 Colores favoritos: rosa y violeta
 - ☕ Aprendiendo un poco cada día, sin prisa
 
 ---
