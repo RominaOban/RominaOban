@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Dayana!%20 &fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Dayana!%20&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center"> Dayana Obando · Estudiante en constante aprendizaje </h3>
