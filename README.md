@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Dayana!%20&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Dayana!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">💜 Dayana Obando · Estudiante en constante aprendizaje 💜</h3>
@@ -50,12 +50,13 @@
 
 ---
 
-### Datos sobre mí
+### 🎀 Datos random sobre mí
 
 - 📚 Estudiante, usando este perfil como bitácora de tareas
 - 🐰 Detrás de este perfil está *Meg Studio*, mi pequeño proyecto personal
-- 🌷 Colores favoritos: rosa y violeta
-- ☕ Aprendiendo un poco cada día
+- 🌷 Colores favoritos: rosa y violeta (se nota, ¿no? 💜)
+- ✨ Creo firmemente en que *"tu potencial es infinito"*
+- ☕ Aprendiendo un poco cada día, sin prisa
 
 ---
 
