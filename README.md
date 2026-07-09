@@ -23,7 +23,7 @@
 ---
 
 ### 🛠️ Mis tecnologías
-
+  
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,py,java,mysql&theme=dark">
