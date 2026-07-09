@@ -1,20 +1,14 @@
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/RominaOban/RominaOban/main/assets/meg-studio.png" width="160" alt="Meg Studio"/>
-
 </div>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Dayana!%20&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F9A8D4,50:C084FC,100:7C3AED&height=200&section=header&text=¡Hola,%20soy%20Dayana!%20👋&fontSize=38&fontColor=ffffff&animation=twinkling" />
 </p>
-
 <h3 align="center">🩷 Dayana Obando · Estudiante en constante aprendizaje 💜</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B983FF&center=true&vCenter=true&width=500&lines=Aprendiendo+HTML%2C+CSS+y+JavaScript;Explorando+Python+poco+a+poco;Este+repo+guarda+mis+tareas+de+la+U;Tu+potencial+es+infinito+%E2%9C%A8" alt="Typing SVG" />
 </p>
-
----
+<p align="center">🌸 · 🦋 · 🌸</p>
 
 ### 🌸 Sobre mí
 
