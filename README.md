@@ -21,7 +21,7 @@
 - 🎓 Estudiante universitaria, aprendiendo a programar desde cero
 - 💻 Este perfil funciona como repositorio de mis **tareas y prácticas**
 - 🌱 Actualmente reforzando **HTML**, **JavaScript** y dando mis primeros pasos en **Python**
-- 🎯 Metas: aprender mejor **Java**
+- 🎯 Meta: aprender mejor **Java**
 - 💌 Contacto: `drobando4@utpl.edu.ec`
 
 > *"Tu potencial es infinito, solo limitado por tus pensamientos"* 🦋
@@ -32,8 +32,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,python,java,mysql&theme=dark">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,py,java,mysql&theme=dark">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,mysql&theme=light" />
   </picture>
 </p>
 
@@ -55,7 +55,7 @@
 - 📚 Estudiante, usando este perfil como bitácora de tareas
 - 🐰 Detrás de este perfil está *Meg Studio*, mi proyecto personal
 - 🌷 Colores favoritos: rosa y violeta
-- ☕ Aprendiendo un poco cada día, sin prisa
+- ☕ Aprendiendo un poco cada día
 
 ---
 
