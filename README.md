@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/RominaOban/RominaOban/main/assets/meg-studio.png" width="160" alt="Meg Studio"/>
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F9A8D4,50:C084FC,100:7C3AED&height=200&section=header&text=¡Hola,%20soy%20Dayana!%20👋&fontSize=38&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F9A8D4,50:C084FC,100:7C3AED&height=200&section=header&text=¡Hola,%20soy%20Dayana!%20&fontSize=38&fontColor=ffffff&animation=twinkling" />
 </p>
 <h3 align="center">🩷 Dayana Obando · Estudiante en constante aprendizaje 💜</h3>
 <p align="center">
